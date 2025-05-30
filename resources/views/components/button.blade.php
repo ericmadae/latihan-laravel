@@ -1,0 +1,3 @@
+<div>
+    Button : {{ $color }}
+</div>
